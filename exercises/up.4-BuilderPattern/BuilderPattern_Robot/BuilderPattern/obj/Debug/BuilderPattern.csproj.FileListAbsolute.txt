@@ -1,0 +1,9 @@
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_Robot\BuilderPattern\bin\Debug\BuilderPattern.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_Robot\BuilderPattern\bin\Debug\BuilderPattern.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_Robot\BuilderPattern\obj\Debug\BuilderPattern.MainForm.resources
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_Robot\BuilderPattern\obj\Debug\BuilderPattern.Properties.Resources.resources
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_Robot\BuilderPattern\obj\Debug\BuilderPattern.Classes.Robot.resources
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_Robot\BuilderPattern\obj\Debug\BuilderPattern.Resources.Images.resources
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_Robot\BuilderPattern\obj\Debug\BuilderPattern.csproj.GenerateResource.Cache
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_Robot\BuilderPattern\obj\Debug\BuilderPattern.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_Robot\BuilderPattern\obj\Debug\BuilderPattern.pdb

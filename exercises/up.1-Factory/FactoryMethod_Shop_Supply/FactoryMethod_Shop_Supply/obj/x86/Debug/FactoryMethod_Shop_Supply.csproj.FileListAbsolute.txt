@@ -1,0 +1,23 @@
+D:/Programming/Design Pattern/examps/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/bin/Debug/FactoryMethod_Shop_Supply.exe
+D:/Programming/Design Pattern/examps/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/bin/Debug/FactoryMethod_Shop_Supply.pdb
+D:/Programming/Design Pattern/examps/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/ResolveAssemblyReference.cache
+D:/Programming/Design Pattern/examps/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/FactoryMethod_Shop_Supply.exe
+D:/Programming/Design Pattern/examps/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/FactoryMethod_Shop_Supply.pdb
+F:/Venelin/Uprajneniq/Design Pattern/examps/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/FactoryMethod_Shop_Supply.exe
+F:/Venelin/Uprajneniq/Design Pattern/examps/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/FactoryMethod_Shop_Supply.pdb
+F:/Venelin/Uprajneniq/Design Pattern/examps/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/bin/Debug/FactoryMethod_Shop_Supply.exe
+F:/Venelin/Uprajneniq/Design Pattern/examps/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/ResolveAssemblyReference.cache
+D:/Ven/Magistri/Design Pattern/Design Pattern/examps/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/FactoryMethod_Shop_Supply.exe
+D:/Ven/Magistri/Design Pattern/Design Pattern/examps/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/FactoryMethod_Shop_Supply.pdb
+D:/Ven/Magistri/Design Pattern/Design Pattern/examps/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/bin/Debug/FactoryMethod_Shop_Supply.exe
+D:/Ven/Magistri/Design Pattern/Design Pattern/examps/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/bin/Debug/FactoryMethod_Shop_Supply.pdb
+D:/MARIA/DesignPatterns/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/FactoryMethod_Shop_Supply.exe
+D:/MARIA/DesignPatterns/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/FactoryMethod_Shop_Supply.pdb
+D:/MARIA/DesignPatterns/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/bin/Debug/FactoryMethod_Shop_Supply.exe
+D:/MARIA/DesignPatterns/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/bin/Debug/FactoryMethod_Shop_Supply.pdb
+/home/lfilipov/Documents/University/DESIGN-PATTERNS/exercises/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/bin/Debug/FactoryMethod_Shop_Supply.exe
+/home/lfilipov/Documents/University/DESIGN-PATTERNS/exercises/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/bin/Debug/FactoryMethod_Shop_Supply.pdb
+/home/lfilipov/Documents/University/DESIGN-PATTERNS/exercises/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/FactoryMethod_Shop_Supply.csprojAssemblyReference.cache
+/home/lfilipov/Documents/University/DESIGN-PATTERNS/exercises/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/FactoryMethod_Shop_Supply.csproj.CoreCompileInputs.cache
+/home/lfilipov/Documents/University/DESIGN-PATTERNS/exercises/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/FactoryMethod_Shop_Supply.exe
+/home/lfilipov/Documents/University/DESIGN-PATTERNS/exercises/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Debug/FactoryMethod_Shop_Supply.pdb

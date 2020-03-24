@@ -1,0 +1,7 @@
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Observer\Observer\ObserverTest\bin\Debug\ObserverTest.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Observer\Observer\ObserverTest\bin\Debug\ObserverTest.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Observer\Observer\ObserverTest\obj\Debug\ResolveAssemblyReference.cache
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Observer\Observer\ObserverTest\obj\Debug\ObserverTest.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Observer\Observer\ObserverTest\obj\Debug\ObserverTest.pdb
+D:\MARIA\DesignPatterns\upr.17\Observer\Observer\ObserverTest\obj\Debug\ObserverTest.exe
+D:\MARIA\DesignPatterns\upr.17\Observer\Observer\ObserverTest\obj\Debug\ObserverTest.pdb

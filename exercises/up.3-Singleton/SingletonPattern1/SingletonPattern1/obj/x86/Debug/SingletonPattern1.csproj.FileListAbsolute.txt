@@ -1,0 +1,19 @@
+F:\Venelin\Uprajneniq\Design Pattern\examps\SingletonPattern1\SingletonPattern1\bin\Debug\SingletonPattern1.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\SingletonPattern1\SingletonPattern1\bin\Debug\SingletonPattern1.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\SingletonPattern1\SingletonPattern1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Venelin\Uprajneniq\Design Pattern\examps\SingletonPattern1\SingletonPattern1\obj\x86\Debug\SingletonPattern1.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\SingletonPattern1\SingletonPattern1\obj\x86\Debug\SingletonPattern1.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.3\SingletonPattern1\SingletonPattern1\obj\x86\Debug\SingletonPattern1.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.3\SingletonPattern1\SingletonPattern1\obj\x86\Debug\SingletonPattern1.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.3\SingletonPattern1\SingletonPattern1\bin\Debug\SingletonPattern1.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.3\SingletonPattern1\SingletonPattern1\bin\Debug\SingletonPattern1.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.3\SingletonPattern1\SingletonPattern1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.3\SingletonPattern1\SingletonPattern1\obj\x86\Debug\SingletonPattern1.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.3\SingletonPattern1\SingletonPattern1\obj\x86\Debug\SingletonPattern1.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.3\SingletonPattern1\SingletonPattern1\bin\Debug\SingletonPattern1.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.3\SingletonPattern1\SingletonPattern1\bin\Debug\SingletonPattern1.pdb
+D:\MARIA\DesignPatterns\up.3\SingletonPattern1\SingletonPattern1\obj\x86\Debug\SingletonPattern1.exe
+D:\MARIA\DesignPatterns\up.3\SingletonPattern1\SingletonPattern1\obj\x86\Debug\SingletonPattern1.pdb
+D:\MARIA\DesignPatterns\up.3\SingletonPattern1\SingletonPattern1\bin\Debug\SingletonPattern1.exe
+D:\MARIA\DesignPatterns\up.3\SingletonPattern1\SingletonPattern1\bin\Debug\SingletonPattern1.pdb
+D:\MARIA\DesignPatterns\up.3\SingletonPattern1\SingletonPattern1\obj\x86\Debug\ResolveAssemblyReference.cache

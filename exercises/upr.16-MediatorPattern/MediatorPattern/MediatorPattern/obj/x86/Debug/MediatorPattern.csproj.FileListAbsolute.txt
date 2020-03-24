@@ -1,0 +1,7 @@
+D:\Programming\Design Pattern\examps\upr.15\MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.exe
+D:\Programming\Design Pattern\examps\upr.15\MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.pdb
+D:\Programming\Design Pattern\examps\upr.15\MediatorPattern\MediatorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\upr.15\MediatorPattern\MediatorPattern\obj\x86\Debug\MediatorPattern.exe
+D:\Programming\Design Pattern\examps\upr.15\MediatorPattern\MediatorPattern\obj\x86\Debug\MediatorPattern.pdb
+D:\MARIA\DesignPatterns\upr.16\MediatorPattern\MediatorPattern\obj\x86\Debug\MediatorPattern.exe
+D:\MARIA\DesignPatterns\upr.16\MediatorPattern\MediatorPattern\obj\x86\Debug\MediatorPattern.pdb

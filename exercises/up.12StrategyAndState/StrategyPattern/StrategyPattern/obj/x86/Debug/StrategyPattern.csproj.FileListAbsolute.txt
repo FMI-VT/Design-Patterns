@@ -1,0 +1,9 @@
+D:\Programming\Design Pattern\examps\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\Programming\Design Pattern\examps\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\Programming\Design Pattern\examps\StrategyPattern\StrategyPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+D:\Programming\Design Pattern\examps\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
+D:\MARIA\DesignPatterns\up.12\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+D:\MARIA\DesignPatterns\up.12\StrategyPattern\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
+D:\MARIA\DesignPatterns\up.12\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\MARIA\DesignPatterns\up.12\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb

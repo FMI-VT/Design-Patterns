@@ -1,0 +1,6 @@
+/home/lfilipov/Documents/University/DESIGN-PATTERNS/exercises/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/bin/Release/FactoryMethod_Shop_Supply.exe
+/home/lfilipov/Documents/University/DESIGN-PATTERNS/exercises/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/bin/Release/FactoryMethod_Shop_Supply.pdb
+/home/lfilipov/Documents/University/DESIGN-PATTERNS/exercises/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Release/FactoryMethod_Shop_Supply.csproj.CoreCompileInputs.cache
+/home/lfilipov/Documents/University/DESIGN-PATTERNS/exercises/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Release/FactoryMethod_Shop_Supply.exe
+/home/lfilipov/Documents/University/DESIGN-PATTERNS/exercises/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Release/FactoryMethod_Shop_Supply.pdb
+/home/lfilipov/Documents/University/DESIGN-PATTERNS/exercises/up.1/FactoryMethod_Shop_Supply/FactoryMethod_Shop_Supply/obj/x86/Release/FactoryMethod_Shop_Supply.csprojAssemblyReference.cache

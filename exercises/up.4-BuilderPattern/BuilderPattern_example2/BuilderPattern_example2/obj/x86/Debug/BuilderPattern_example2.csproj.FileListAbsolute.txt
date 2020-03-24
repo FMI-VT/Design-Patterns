@@ -1,0 +1,18 @@
+D:\Programming\Design Pattern\examps\BuilderPattern_example2\BuilderPattern_example2\bin\Debug\BuilderPattern_example2.exe
+D:\Programming\Design Pattern\examps\BuilderPattern_example2\BuilderPattern_example2\bin\Debug\BuilderPattern_example2.pdb
+D:\Programming\Design Pattern\examps\BuilderPattern_example2\BuilderPattern_example2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\BuilderPattern_example2\BuilderPattern_example2\obj\x86\Debug\BuilderPattern_example2.exe
+D:\Programming\Design Pattern\examps\BuilderPattern_example2\BuilderPattern_example2\obj\x86\Debug\BuilderPattern_example2.pdb
+G:\Design Patterns\examps\up.4\BuilderPattern_example2\BuilderPattern_example2\obj\x86\Debug\BuilderPattern_example2.exe
+G:\Design Patterns\examps\up.4\BuilderPattern_example2\BuilderPattern_example2\obj\x86\Debug\BuilderPattern_example2.pdb
+C:\Documents and Settings\s503.DOMAIN3\Desktop\Design\up.4\BuilderPattern_example2\BuilderPattern_example2\obj\x86\Debug\BuilderPattern_example2.exe
+C:\Documents and Settings\s503.DOMAIN3\Desktop\Design\up.4\BuilderPattern_example2\BuilderPattern_example2\obj\x86\Debug\BuilderPattern_example2.pdb
+C:\Documents and Settings\s503.DOMAIN3\Desktop\Design\up.4\BuilderPattern_example2\BuilderPattern_example2\bin\Debug\BuilderPattern_example2.exe
+C:\Documents and Settings\s503.DOMAIN3\Desktop\Design\up.4\BuilderPattern_example2\BuilderPattern_example2\bin\Debug\BuilderPattern_example2.pdb
+C:\Documents and Settings\s503.DOMAIN3\Desktop\Design\up.4\BuilderPattern_example2\BuilderPattern_example2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.4\BuilderPattern_example2\BuilderPattern_example2\obj\x86\Debug\BuilderPattern_example2.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.4\BuilderPattern_example2\BuilderPattern_example2\obj\x86\Debug\BuilderPattern_example2.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_example2\BuilderPattern_example2\obj\x86\Debug\BuilderPattern_example2.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_example2\BuilderPattern_example2\obj\x86\Debug\BuilderPattern_example2.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_example2\BuilderPattern_example2\bin\Debug\BuilderPattern_example2.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_example2\BuilderPattern_example2\bin\Debug\BuilderPattern_example2.pdb

@@ -1,0 +1,11 @@
+Subject  -  A blogger who writes about some thesis
+IObserver - The “Email alert”
+Observer - A programmer interested in some thesis
+Update - Receiving an alert by email
+Notify - An email from the blog site to all those signed up
+State - A blog
+
+
+
+
+

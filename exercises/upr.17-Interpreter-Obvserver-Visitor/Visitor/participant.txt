@@ -1,0 +1,18 @@
+Client
+A class that creates and maintains the object structure; instantiates and calls the Visitors
+-----
+ObjectStructure
+A composite structure of several related element types
+-----
+Element
+The root element type for the object structure
+-----
+ElementA and ElementB
+Subclasses of Element
+----
+IVisitor
+An interface for all the Visitor classes
+----
+Visitor1 and Visitor2
+Classes that contain methods that iterate through the object structure and apply
+operations to its elements

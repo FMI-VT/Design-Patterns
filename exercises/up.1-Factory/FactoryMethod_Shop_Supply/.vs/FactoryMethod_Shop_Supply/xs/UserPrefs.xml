@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{18CB5E2B-3691-4DFC-9D08-7FDD46B94F11}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethod_Shop_Supply/Program.cs">
+    <Files>
+      <File FileName="FactoryMethod_Shop_Supply/Creator.cs" Line="10" Column="8" />
+      <File FileName="FactoryMethod_Shop_Supply/Program.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryMethod_Shop_Supply" expanded="True">
+            <Node name="FactoryMethod_Shop_Supply" expanded="True">
+              <Node name="IProduct.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FactoryMethod__Shop__Supply PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

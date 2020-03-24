@@ -1,0 +1,18 @@
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\bin\Release\FacadePattern.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\bin\Release\FacadeLib.dll
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\bin\Release\FacadeLib.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\obj\x86\Release\FacadePattern.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\obj\x86\Release\FacadePattern.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\bin\Release\FacadePattern.pdb
+F:\Venelin\Uprajneniq\Design Pattern\up.7\FacadePattern\FacadePattern\obj\x86\Release\FacadePattern.exe
+F:\Venelin\Uprajneniq\Design Pattern\up.7\FacadePattern\FacadePattern\obj\x86\Release\FacadePattern.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.7\FacadePattern\FacadePattern\obj\x86\Release\FacadePattern.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.7\FacadePattern\FacadePattern\obj\x86\Release\FacadePattern.pdb
+D:\MARIA\DesignPatterns\up.7\FacadePattern\FacadePattern\obj\x86\Release\FacadePattern.exe
+D:\MARIA\DesignPatterns\up.7\FacadePattern\FacadePattern\obj\x86\Release\FacadePattern.pdb
+D:\MARIA\DesignPatterns\up.7\FacadePattern\FacadePattern\bin\Release\FacadePattern.exe
+D:\MARIA\DesignPatterns\up.7\FacadePattern\FacadePattern\bin\Release\FacadePattern.pdb
+D:\MARIA\DesignPatterns\up.7\FacadePattern\FacadePattern\bin\Release\FacadeLib.dll
+D:\MARIA\DesignPatterns\up.7\FacadePattern\FacadePattern\bin\Release\FacadeLib.pdb
+D:\MARIA\DesignPatterns\up.7\FacadePattern\FacadePattern\obj\x86\Release\ResolveAssemblyReference.cache

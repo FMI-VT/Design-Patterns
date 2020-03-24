@@ -1,0 +1,7 @@
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Visitor\Visitor\Visitor\bin\Debug\Visitor.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Visitor\Visitor\Visitor\bin\Debug\Visitor.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Visitor\Visitor\Visitor\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Visitor\Visitor\Visitor\obj\x86\Debug\Visitor.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Visitor\Visitor\Visitor\obj\x86\Debug\Visitor.pdb
+D:\MARIA\DesignPatterns\upr.17\Visitor\Visitor\Visitor\obj\x86\Debug\Visitor.exe
+D:\MARIA\DesignPatterns\upr.17\Visitor\Visitor\Visitor\obj\x86\Debug\Visitor.pdb

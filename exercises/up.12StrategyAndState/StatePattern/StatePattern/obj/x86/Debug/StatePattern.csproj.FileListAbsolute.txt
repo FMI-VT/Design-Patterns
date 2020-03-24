@@ -1,0 +1,12 @@
+F:\Venelin\Uprajneniq\Design Pattern\examps\StatePattern\StatePattern\bin\Debug\StatePattern.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\StatePattern\StatePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Venelin\Uprajneniq\Design Pattern\examps\StatePattern\StatePattern\obj\x86\Debug\StatePattern.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\StatePattern\StatePattern\obj\x86\Debug\StatePattern.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.12\StatePattern\StatePattern\obj\x86\Debug\StatePattern.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.12\StatePattern\StatePattern\obj\x86\Debug\StatePattern.pdb
+D:\MARIA\DesignPatterns\up.12\StatePattern\StatePattern\obj\x86\Debug\StatePattern.exe
+D:\MARIA\DesignPatterns\up.12\StatePattern\StatePattern\obj\x86\Debug\StatePattern.pdb
+D:\MARIA\DesignPatterns\up.12\StatePattern\StatePattern\bin\Debug\StatePattern.exe
+D:\MARIA\DesignPatterns\up.12\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
+D:\MARIA\DesignPatterns\up.12\StatePattern\StatePattern\obj\x86\Debug\ResolveAssemblyReference.cache

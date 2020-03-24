@@ -1,0 +1,19 @@
+Client
+A class that builds an object structure that represents a set of instructions in the given grammar
+===========
+
+Context
+A class that contains information for use by the Interpreter (usually its input and output)
+===========
+
+Term
+An abstract class that provides an interface for all the classes in the structure and 
+a default for the Interpreter operation
+===========
+
+Nonterminal
+A class that implements the Interpreter and also can contain other Term instances
+===========
+
+Terminal
+A class that implements the Interpreter

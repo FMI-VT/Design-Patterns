@@ -1,0 +1,13 @@
+D:\Programming\Design Pattern\examps\BuilderPattern_example1\BuilderPattern_example1\bin\Debug\BuilderPattern_example1.exe
+D:\Programming\Design Pattern\examps\BuilderPattern_example1\BuilderPattern_example1\bin\Debug\BuilderPattern_example1.pdb
+D:\Programming\Design Pattern\examps\BuilderPattern_example1\BuilderPattern_example1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\BuilderPattern_example1\BuilderPattern_example1\obj\x86\Debug\BuilderPattern_example1.exe
+D:\Programming\Design Pattern\examps\BuilderPattern_example1\BuilderPattern_example1\obj\x86\Debug\BuilderPattern_example1.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.4\BuilderPattern_example1\BuilderPattern_example1\obj\x86\Debug\BuilderPattern_example1.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.4\BuilderPattern_example1\BuilderPattern_example1\obj\x86\Debug\BuilderPattern_example1.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_example1\BuilderPattern_example1\obj\x86\Debug\BuilderPattern_example1.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.4\BuilderPattern_example1\BuilderPattern_example1\obj\x86\Debug\BuilderPattern_example1.pdb
+D:\MARIA\DesignPatterns\up.4\BuilderPattern_example1\BuilderPattern_example1\obj\x86\Debug\BuilderPattern_example1.exe
+D:\MARIA\DesignPatterns\up.4\BuilderPattern_example1\BuilderPattern_example1\obj\x86\Debug\BuilderPattern_example1.pdb
+D:\MARIA\DesignPatterns\up.4\BuilderPattern_example1\BuilderPattern_example1\bin\Debug\BuilderPattern_example1.exe
+D:\MARIA\DesignPatterns\up.4\BuilderPattern_example1\BuilderPattern_example1\bin\Debug\BuilderPattern_example1.pdb

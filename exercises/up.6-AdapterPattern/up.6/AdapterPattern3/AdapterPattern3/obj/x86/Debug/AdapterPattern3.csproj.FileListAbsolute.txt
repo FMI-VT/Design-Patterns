@@ -1,0 +1,13 @@
+D:\Programming\Design Pattern\examps\AdapterPattern3\AdapterPattern3\bin\Debug\AdapterPattern3.exe
+D:\Programming\Design Pattern\examps\AdapterPattern3\AdapterPattern3\bin\Debug\AdapterPattern3.pdb
+D:\Programming\Design Pattern\examps\AdapterPattern3\AdapterPattern3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\AdapterPattern3\AdapterPattern3\obj\x86\Debug\AdapterPattern3.exe
+D:\Programming\Design Pattern\examps\AdapterPattern3\AdapterPattern3\obj\x86\Debug\AdapterPattern3.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.6\up.6\AdapterPattern3\AdapterPattern3\obj\x86\Debug\AdapterPattern3.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.6\up.6\AdapterPattern3\AdapterPattern3\obj\x86\Debug\AdapterPattern3.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.6\up.6\AdapterPattern3\AdapterPattern3\obj\x86\Debug\AdapterPattern3.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.6\up.6\AdapterPattern3\AdapterPattern3\obj\x86\Debug\AdapterPattern3.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.6\up.6\AdapterPattern3\AdapterPattern3\bin\Debug\AdapterPattern3.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.6\up.6\AdapterPattern3\AdapterPattern3\bin\Debug\AdapterPattern3.pdb
+D:\MARIA\DesignPatterns\up.6\up.6\AdapterPattern3\AdapterPattern3\obj\x86\Debug\AdapterPattern3.exe
+D:\MARIA\DesignPatterns\up.6\up.6\AdapterPattern3\AdapterPattern3\obj\x86\Debug\AdapterPattern3.pdb

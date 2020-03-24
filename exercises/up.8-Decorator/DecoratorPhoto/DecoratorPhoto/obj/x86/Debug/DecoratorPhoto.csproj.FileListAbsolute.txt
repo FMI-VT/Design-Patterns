@@ -1,0 +1,12 @@
+D:\Programming\Design Pattern\examps\DecoratorPhoto\DecoratorPhoto\bin\Debug\DecoratorPhoto.exe
+D:\Programming\Design Pattern\examps\DecoratorPhoto\DecoratorPhoto\bin\Debug\DecoratorPhoto.pdb
+D:\Programming\Design Pattern\examps\DecoratorPhoto\DecoratorPhoto\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\DecoratorPhoto\DecoratorPhoto\obj\x86\Debug\DecoratorPhoto.Properties.Resources.resources
+D:\Programming\Design Pattern\examps\DecoratorPhoto\DecoratorPhoto\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programming\Design Pattern\examps\DecoratorPhoto\DecoratorPhoto\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programming\Design Pattern\examps\DecoratorPhoto\DecoratorPhoto\obj\x86\Debug\DecoratorPhoto.exe
+D:\Programming\Design Pattern\examps\DecoratorPhoto\DecoratorPhoto\obj\x86\Debug\DecoratorPhoto.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.8\DecoratorPhoto\DecoratorPhoto\obj\x86\Debug\DecoratorPhoto.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.8\DecoratorPhoto\DecoratorPhoto\obj\x86\Debug\DecoratorPhoto.pdb
+D:\MARIA\DesignPatterns\up.8\DecoratorPhoto\DecoratorPhoto\obj\x86\Debug\DecoratorPhoto.exe
+D:\MARIA\DesignPatterns\up.8\DecoratorPhoto\DecoratorPhoto\obj\x86\Debug\DecoratorPhoto.pdb

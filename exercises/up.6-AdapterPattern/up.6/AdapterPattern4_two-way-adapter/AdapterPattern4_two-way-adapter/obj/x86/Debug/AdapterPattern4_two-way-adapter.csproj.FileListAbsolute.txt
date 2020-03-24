@@ -1,0 +1,13 @@
+D:\Programming\Design Pattern\examps\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\bin\Debug\AdapterPattern4_two-way-adapter.exe
+D:\Programming\Design Pattern\examps\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\bin\Debug\AdapterPattern4_two-way-adapter.pdb
+D:\Programming\Design Pattern\examps\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\obj\x86\Debug\AdapterPattern4_two-way-adapter.exe
+D:\Programming\Design Pattern\examps\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\obj\x86\Debug\AdapterPattern4_two-way-adapter.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.6\up.6\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\obj\x86\Debug\AdapterPattern4_two-way-adapter.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.6\up.6\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\obj\x86\Debug\AdapterPattern4_two-way-adapter.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.6\up.6\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\obj\x86\Debug\AdapterPattern4_two-way-adapter.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.6\up.6\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\obj\x86\Debug\AdapterPattern4_two-way-adapter.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.6\up.6\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\bin\Debug\AdapterPattern4_two-way-adapter.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.6\up.6\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\bin\Debug\AdapterPattern4_two-way-adapter.pdb
+D:\MARIA\DesignPatterns\up.6\up.6\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\obj\x86\Debug\AdapterPattern4_two-way-adapter.exe
+D:\MARIA\DesignPatterns\up.6\up.6\AdapterPattern4_two-way-adapter\AdapterPattern4_two-way-adapter\obj\x86\Debug\AdapterPattern4_two-way-adapter.pdb

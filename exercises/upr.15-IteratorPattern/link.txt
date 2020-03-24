@@ -1,0 +1,1 @@
+http://www.codeproject.com/Articles/362986/Understanding-and-Implementing-the-Iterator-Patter

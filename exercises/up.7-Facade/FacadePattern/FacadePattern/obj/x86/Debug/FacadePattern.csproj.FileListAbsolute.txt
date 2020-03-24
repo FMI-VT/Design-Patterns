@@ -1,0 +1,6 @@
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\bin\Debug\FacadePattern.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\bin\Debug\FacadeLib.dll
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\obj\x86\Debug\FacadePattern.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadePattern\FacadePattern\obj\x86\Debug\FacadePattern.pdb

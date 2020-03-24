@@ -1,0 +1,7 @@
+D:\Programming\Design Pattern\examps\up.10\CompositePattern1\CompositePattern1\bin\Release\CompositePattern1.exe
+D:\Programming\Design Pattern\examps\up.10\CompositePattern1\CompositePattern1\bin\Release\CompositePattern1.pdb
+D:\Programming\Design Pattern\examps\up.10\CompositePattern1\CompositePattern1\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\up.10\CompositePattern1\CompositePattern1\obj\x86\Release\CompositePattern1.exe
+D:\Programming\Design Pattern\examps\up.10\CompositePattern1\CompositePattern1\obj\x86\Release\CompositePattern1.pdb
+D:\Programming\Design Pattern\examps\up.10\CompositePattern\CompositePattern1\CompositePattern1\obj\x86\Release\CompositePattern1.exe
+D:\Programming\Design Pattern\examps\up.10\CompositePattern\CompositePattern1\CompositePattern1\obj\x86\Release\CompositePattern1.pdb

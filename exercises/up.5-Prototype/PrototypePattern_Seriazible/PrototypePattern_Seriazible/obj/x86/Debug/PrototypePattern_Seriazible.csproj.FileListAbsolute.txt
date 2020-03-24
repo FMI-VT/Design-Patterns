@@ -1,0 +1,16 @@
+D:\Programming\Design Pattern\examps\PrototypePattern_Seriazible\PrototypePattern_Seriazible\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\PrototypePattern_Seriazible\PrototypePattern_Seriazible\bin\Debug\PrototypePattern_Seriazible.exe
+D:\Programming\Design Pattern\examps\PrototypePattern_Seriazible\PrototypePattern_Seriazible\bin\Debug\PrototypePattern_Seriazible.pdb
+D:\Programming\Design Pattern\examps\PrototypePattern_Seriazible\PrototypePattern_Seriazible\obj\x86\Debug\PrototypePattern_Seriazible.exe
+D:\Programming\Design Pattern\examps\PrototypePattern_Seriazible\PrototypePattern_Seriazible\obj\x86\Debug\PrototypePattern_Seriazible.pdb
+C:\Documents and Settings\s503.DOMAIN3\Desktop\Design\up.5\PrototypePattern_Seriazible\PrototypePattern_Seriazible\obj\x86\Debug\PrototypePattern_Seriazible.exe
+C:\Documents and Settings\s503.DOMAIN3\Desktop\Design\up.5\PrototypePattern_Seriazible\PrototypePattern_Seriazible\obj\x86\Debug\PrototypePattern_Seriazible.pdb
+C:\Documents and Settings\s503.DOMAIN3\Desktop\Design\up.5\PrototypePattern_Seriazible\PrototypePattern_Seriazible\bin\Debug\PrototypePattern_Seriazible.exe
+C:\Documents and Settings\s503.DOMAIN3\Desktop\Design\up.5\PrototypePattern_Seriazible\PrototypePattern_Seriazible\bin\Debug\PrototypePattern_Seriazible.pdb
+C:\Documents and Settings\s503.DOMAIN3\Desktop\Design\up.5\PrototypePattern_Seriazible\PrototypePattern_Seriazible\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.5\PrototypePattern_Seriazible\PrototypePattern_Seriazible\obj\x86\Debug\PrototypePattern_Seriazible.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.5\PrototypePattern_Seriazible\PrototypePattern_Seriazible\obj\x86\Debug\PrototypePattern_Seriazible.pdb
+D:\MARIA\DesignPatterns\up.5\PrototypePattern_Seriazible\PrototypePattern_Seriazible\obj\x86\Debug\PrototypePattern_Seriazible.exe
+D:\MARIA\DesignPatterns\up.5\PrototypePattern_Seriazible\PrototypePattern_Seriazible\obj\x86\Debug\PrototypePattern_Seriazible.pdb
+D:\MARIA\DesignPatterns\up.5\PrototypePattern_Seriazible\PrototypePattern_Seriazible\bin\Debug\PrototypePattern_Seriazible.exe
+D:\MARIA\DesignPatterns\up.5\PrototypePattern_Seriazible\PrototypePattern_Seriazible\bin\Debug\PrototypePattern_Seriazible.pdb

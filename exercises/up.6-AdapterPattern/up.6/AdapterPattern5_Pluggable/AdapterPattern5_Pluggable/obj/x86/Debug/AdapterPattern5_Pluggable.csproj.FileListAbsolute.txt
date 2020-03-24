@@ -1,0 +1,13 @@
+D:\Programming\Design Pattern\examps\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\bin\Debug\AdapterPattern5_Pluggable.exe
+D:\Programming\Design Pattern\examps\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\bin\Debug\AdapterPattern5_Pluggable.pdb
+D:\Programming\Design Pattern\examps\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\obj\x86\Debug\AdapterPattern5_Pluggable.exe
+D:\Programming\Design Pattern\examps\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\obj\x86\Debug\AdapterPattern5_Pluggable.pdb
+D:\Programming\Design Pattern\examps\up.6\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\obj\x86\Debug\AdapterPattern5_Pluggable.exe
+D:\Programming\Design Pattern\examps\up.6\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\obj\x86\Debug\AdapterPattern5_Pluggable.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.6\up.6\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\obj\x86\Debug\AdapterPattern5_Pluggable.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.6\up.6\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\obj\x86\Debug\AdapterPattern5_Pluggable.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.6\up.6\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\obj\x86\Debug\AdapterPattern5_Pluggable.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.6\up.6\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\obj\x86\Debug\AdapterPattern5_Pluggable.pdb
+D:\MARIA\DesignPatterns\up.6\up.6\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\obj\x86\Debug\AdapterPattern5_Pluggable.exe
+D:\MARIA\DesignPatterns\up.6\up.6\AdapterPattern5_Pluggable\AdapterPattern5_Pluggable\obj\x86\Debug\AdapterPattern5_Pluggable.pdb

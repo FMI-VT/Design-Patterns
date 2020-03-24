@@ -1,0 +1,5 @@
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadeLib\FacadeLib\bin\Release\FacadeLib.dll
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadeLib\FacadeLib\bin\Release\FacadeLib.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadeLib\FacadeLib\obj\Release\ResolveAssemblyReference.cache
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadeLib\FacadeLib\obj\Release\FacadeLib.dll
+F:\Venelin\Uprajneniq\Design Pattern\examps\FacadeLib\FacadeLib\obj\Release\FacadeLib.pdb

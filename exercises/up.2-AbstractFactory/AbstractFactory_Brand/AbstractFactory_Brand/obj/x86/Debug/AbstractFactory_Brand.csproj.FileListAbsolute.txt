@@ -1,0 +1,18 @@
+D:\Programming\Design Pattern\examps\AbstractFactory_Brand\AbstractFactory_Brand\bin\Debug\AbstractFactory_Brand.exe
+D:\Programming\Design Pattern\examps\AbstractFactory_Brand\AbstractFactory_Brand\bin\Debug\AbstractFactory_Brand.pdb
+D:\Programming\Design Pattern\examps\AbstractFactory_Brand\AbstractFactory_Brand\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\AbstractFactory_Brand\AbstractFactory_Brand\obj\x86\Debug\AbstractFactory_Brand.exe
+D:\Programming\Design Pattern\examps\AbstractFactory_Brand\AbstractFactory_Brand\obj\x86\Debug\AbstractFactory_Brand.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.2\AbstractFactory_Brand\AbstractFactory_Brand\obj\x86\Debug\AbstractFactory_Brand.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.2\AbstractFactory_Brand\AbstractFactory_Brand\obj\x86\Debug\AbstractFactory_Brand.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.2\AbstractFactory_Brand\AbstractFactory_Brand\bin\Debug\AbstractFactory_Brand.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.2\AbstractFactory_Brand\AbstractFactory_Brand\bin\Debug\AbstractFactory_Brand.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.2\AbstractFactory_Brand\AbstractFactory_Brand\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.2\AbstractFactory_Brand\AbstractFactory_Brand\obj\x86\Debug\AbstractFactory_Brand.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.2\AbstractFactory_Brand\AbstractFactory_Brand\obj\x86\Debug\AbstractFactory_Brand.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.2\AbstractFactory_Brand\AbstractFactory_Brand\bin\Debug\AbstractFactory_Brand.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.2\AbstractFactory_Brand\AbstractFactory_Brand\bin\Debug\AbstractFactory_Brand.pdb
+D:\MARIA\DesignPatterns\up.2\AbstractFactory_Brand\AbstractFactory_Brand\obj\x86\Debug\AbstractFactory_Brand.exe
+D:\MARIA\DesignPatterns\up.2\AbstractFactory_Brand\AbstractFactory_Brand\obj\x86\Debug\AbstractFactory_Brand.pdb
+D:\MARIA\DesignPatterns\up.2\AbstractFactory_Brand\AbstractFactory_Brand\bin\Debug\AbstractFactory_Brand.exe
+D:\MARIA\DesignPatterns\up.2\AbstractFactory_Brand\AbstractFactory_Brand\bin\Debug\AbstractFactory_Brand.pdb

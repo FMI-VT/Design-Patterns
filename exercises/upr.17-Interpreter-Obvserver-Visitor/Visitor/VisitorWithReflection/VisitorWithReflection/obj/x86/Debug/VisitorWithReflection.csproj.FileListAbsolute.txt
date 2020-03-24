@@ -1,0 +1,5 @@
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Visitor\VisitorWithReflection\VisitorWithReflection\bin\Debug\VisitorWithReflection.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Visitor\VisitorWithReflection\VisitorWithReflection\bin\Debug\VisitorWithReflection.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Visitor\VisitorWithReflection\VisitorWithReflection\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Visitor\VisitorWithReflection\VisitorWithReflection\obj\x86\Debug\VisitorWithReflection.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\upr.17\Visitor\VisitorWithReflection\VisitorWithReflection\obj\x86\Debug\VisitorWithReflection.pdb

@@ -1,0 +1,34 @@
+D:\Programming\Design Pattern\examps\SimpleFactory_Names\SimpleFactory_Names\bin\Debug\SimpleFactory_Names.exe
+D:\Programming\Design Pattern\examps\SimpleFactory_Names\SimpleFactory_Names\bin\Debug\SimpleFactory_Names.pdb
+D:\Programming\Design Pattern\examps\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.Form1.resources
+D:\Programming\Design Pattern\examps\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.Properties.Resources.resources
+D:\Programming\Design Pattern\examps\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programming\Design Pattern\examps\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programming\Design Pattern\examps\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.exe
+D:\Programming\Design Pattern\examps\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.pdb
+C:\Users\it\Desktop\exampleC#\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.exe
+C:\Users\it\Desktop\exampleC#\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.pdb
+C:\Users\it\Desktop\exampleC#\SimpleFactory_Names\SimpleFactory_Names\bin\Debug\SimpleFactory_Names.exe
+C:\Users\it\Desktop\exampleC#\SimpleFactory_Names\SimpleFactory_Names\bin\Debug\SimpleFactory_Names.pdb
+C:\Users\it\Desktop\exampleC#\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\it\Desktop\exampleC#\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.Form1.resources
+C:\Users\it\Desktop\exampleC#\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.Properties.Resources.resources
+C:\Users\it\Desktop\exampleC#\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\it\Desktop\exampleC#\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.1\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.1\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.1\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.1\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.1\SimpleFactory_Names\SimpleFactory_Names\bin\Debug\SimpleFactory_Names.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.1\SimpleFactory_Names\SimpleFactory_Names\bin\Debug\SimpleFactory_Names.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.1\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.Form1.resources
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.1\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.Properties.Resources.resources
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.1\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.csproj.GenerateResource.Cache
+D:\MARIA\DesignPatterns\up.1\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.exe
+D:\MARIA\DesignPatterns\up.1\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.pdb
+D:\MARIA\DesignPatterns\up.1\SimpleFactory_Names\SimpleFactory_Names\bin\Debug\SimpleFactory_Names.exe
+D:\MARIA\DesignPatterns\up.1\SimpleFactory_Names\SimpleFactory_Names\bin\Debug\SimpleFactory_Names.pdb
+D:\MARIA\DesignPatterns\up.1\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MARIA\DesignPatterns\up.1\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.Form1.resources
+D:\MARIA\DesignPatterns\up.1\SimpleFactory_Names\SimpleFactory_Names\obj\x86\Debug\SimpleFactory_Names.Properties.Resources.resources

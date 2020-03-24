@@ -1,0 +1,9 @@
+D:\Programming\Design Pattern\examps\Adapter1\Adapter1\bin\Debug\Adapter1.exe
+D:\Programming\Design Pattern\examps\Adapter1\Adapter1\bin\Debug\Adapter1.pdb
+D:\Programming\Design Pattern\examps\Adapter1\Adapter1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\Adapter1\Adapter1\obj\x86\Debug\Adapter1.exe
+D:\Programming\Design Pattern\examps\Adapter1\Adapter1\obj\x86\Debug\Adapter1.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.6\up.6\AdapterPattern2\Adapter1\obj\x86\Debug\Adapter1.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.6\up.6\AdapterPattern2\Adapter1\obj\x86\Debug\Adapter1.pdb
+D:\MARIA\DesignPatterns\up.6\up.6\AdapterPattern2\Adapter1\obj\x86\Debug\Adapter1.exe
+D:\MARIA\DesignPatterns\up.6\up.6\AdapterPattern2\Adapter1\obj\x86\Debug\Adapter1.pdb

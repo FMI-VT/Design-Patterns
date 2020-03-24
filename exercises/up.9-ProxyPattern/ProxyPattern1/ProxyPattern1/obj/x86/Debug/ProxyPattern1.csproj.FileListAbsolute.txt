@@ -1,0 +1,14 @@
+D:\Programming\Design Pattern\examps\ProxyPattern1\ProxyPattern1\bin\Debug\ProxyPattern1.exe
+D:\Programming\Design Pattern\examps\ProxyPattern1\ProxyPattern1\bin\Debug\ProxyPattern1.pdb
+D:\Programming\Design Pattern\examps\ProxyPattern1\ProxyPattern1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\ProxyPattern1\ProxyPattern1\obj\x86\Debug\ProxyPattern1.exe
+D:\Programming\Design Pattern\examps\ProxyPattern1\ProxyPattern1\obj\x86\Debug\ProxyPattern1.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.9\ProxyPattern1\ProxyPattern1\obj\x86\Debug\ProxyPattern1.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.9\ProxyPattern1\ProxyPattern1\obj\x86\Debug\ProxyPattern1.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.9\ProxyPattern1\ProxyPattern1\bin\Debug\ProxyPattern1.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.9\ProxyPattern1\ProxyPattern1\bin\Debug\ProxyPattern1.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.9\ProxyPattern1\ProxyPattern1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MARIA\DesignPatterns\up.9\ProxyPattern1\ProxyPattern1\obj\x86\Debug\ProxyPattern1.exe
+D:\MARIA\DesignPatterns\up.9\ProxyPattern1\ProxyPattern1\obj\x86\Debug\ProxyPattern1.pdb
+D:\MARIA\DesignPatterns\up.9\ProxyPattern1\ProxyPattern1\bin\Debug\ProxyPattern1.exe
+D:\MARIA\DesignPatterns\up.9\ProxyPattern1\ProxyPattern1\bin\Debug\ProxyPattern1.pdb

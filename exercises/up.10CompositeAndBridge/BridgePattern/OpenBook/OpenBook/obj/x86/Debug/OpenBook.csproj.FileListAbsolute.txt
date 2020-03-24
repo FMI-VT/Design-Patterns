@@ -1,0 +1,7 @@
+D:\Programming\Design Pattern\examps\up.10\OpenBook\OpenBook\bin\Debug\OpenBook.exe
+D:\Programming\Design Pattern\examps\up.10\OpenBook\OpenBook\bin\Debug\OpenBook.pdb
+D:\Programming\Design Pattern\examps\up.10\OpenBook\OpenBook\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\up.10\OpenBook\OpenBook\obj\x86\Debug\OpenBook.exe
+D:\Programming\Design Pattern\examps\up.10\OpenBook\OpenBook\obj\x86\Debug\OpenBook.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.10\BridgePattern\OpenBook\OpenBook\obj\x86\Debug\OpenBook.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.10\BridgePattern\OpenBook\OpenBook\obj\x86\Debug\OpenBook.pdb

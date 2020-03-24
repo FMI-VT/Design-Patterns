@@ -1,0 +1,11 @@
+D:\Programming\Design Pattern\examps\SpaceBook\SpaceBook\bin\Debug\SpaceBook.exe
+D:\Programming\Design Pattern\examps\SpaceBook\SpaceBook\bin\Debug\SpaceBook.pdb
+D:\Programming\Design Pattern\examps\SpaceBook\SpaceBook\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\SpaceBook\SpaceBook\obj\x86\Debug\SpaceBook.exe
+D:\Programming\Design Pattern\examps\SpaceBook\SpaceBook\obj\x86\Debug\SpaceBook.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.9\SpaceBook\SpaceBook\obj\x86\Debug\SpaceBook.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.9\SpaceBook\SpaceBook\obj\x86\Debug\SpaceBook.pdb
+D:\MARIA\DesignPatterns\up.9\SpaceBook\SpaceBook\obj\x86\Debug\SpaceBook.exe
+D:\MARIA\DesignPatterns\up.9\SpaceBook\SpaceBook\obj\x86\Debug\SpaceBook.pdb
+D:\MARIA\DesignPatterns\up.9\SpaceBook\SpaceBook\bin\Debug\SpaceBook.exe
+D:\MARIA\DesignPatterns\up.9\SpaceBook\SpaceBook\bin\Debug\SpaceBook.pdb

@@ -1,0 +1,31 @@
+AddSet Home
+AddPhoto Dinner.jpg
+AddSet Pets Going down another level
+AddPhoto Dog.jpg
+AddPhoto Cat.jpg
+Find Album Ensures Garden is at same level as Home
+AddSet Garden
+AddPhoto Spring.jpg
+AddPhoto Summer.jpg
+AddPhoto Flowers.jpg
+AddPhoto Trees.jpg
+Display Returns to start of Album
+Remove Flowers.jpg Will remain at Garden
+AddPhoto BetterFlowers.jpg To end of Garden
+Display
+Find Home
+Remove Pets
+Display
+Quit
+
+
+
+//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
+//=============================== Comments =====================================
+
+AddSet - Add a new empty set with a name and stay there.
+AddPhoto - Add a new named photo after the pointer and stay there.
+Find - Find the named component (set or photo), or return null if it is not found.
+Remove - Remove the named component (set or photo) and stay at the set from which it was removed.
+Display - Display the whole structure.
+Quit - Exit the program.

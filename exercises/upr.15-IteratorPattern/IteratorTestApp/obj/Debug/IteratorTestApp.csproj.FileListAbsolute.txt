@@ -1,0 +1,7 @@
+D:\Programming\Design Pattern\examps\upr.14\IteratorTestApp\IteratorTestApp\IteratorTestApp\bin\Debug\IteratorTestApp.exe
+D:\Programming\Design Pattern\examps\upr.14\IteratorTestApp\IteratorTestApp\IteratorTestApp\bin\Debug\IteratorTestApp.pdb
+D:\Programming\Design Pattern\examps\upr.14\IteratorTestApp\IteratorTestApp\IteratorTestApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\upr.14\IteratorTestApp\IteratorTestApp\IteratorTestApp\obj\Debug\IteratorTestApp.exe
+D:\Programming\Design Pattern\examps\upr.14\IteratorTestApp\IteratorTestApp\IteratorTestApp\obj\Debug\IteratorTestApp.pdb
+D:\MARIA\DesignPatterns\upr.15\IteratorTestApp\obj\Debug\IteratorTestApp.exe
+D:\MARIA\DesignPatterns\upr.15\IteratorTestApp\obj\Debug\IteratorTestApp.pdb

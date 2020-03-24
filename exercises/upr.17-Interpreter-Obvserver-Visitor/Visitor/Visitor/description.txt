@@ -1,0 +1,6 @@
+Client - The instructor
+ObjectStructure - The rules of the course (taken from the notation)
+Element - Course
+ElementA, ElementB - Lab, Theory, Midterm, Exam
+VisitorA - Print the course rules
+VisitorB - Summarize the Lab and Theory totals

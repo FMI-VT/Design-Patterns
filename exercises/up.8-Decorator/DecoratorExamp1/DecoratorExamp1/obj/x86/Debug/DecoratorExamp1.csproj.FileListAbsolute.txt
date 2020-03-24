@@ -1,0 +1,15 @@
+D:\Programming\Design Pattern\examps\DecoratorExamp1\DecoratorExamp1\bin\Debug\DecoratorExamp1.exe
+D:\Programming\Design Pattern\examps\DecoratorExamp1\DecoratorExamp1\bin\Debug\DecoratorExamp1.pdb
+D:\Programming\Design Pattern\examps\DecoratorExamp1\DecoratorExamp1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\DecoratorExamp1\DecoratorExamp1\obj\x86\Debug\DecoratorExamp1.exe
+D:\Programming\Design Pattern\examps\DecoratorExamp1\DecoratorExamp1\obj\x86\Debug\DecoratorExamp1.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.8\DecoratorExamp1\DecoratorExamp1\obj\x86\Debug\DecoratorExamp1.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.8\DecoratorExamp1\DecoratorExamp1\obj\x86\Debug\DecoratorExamp1.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.8\DecoratorExamp1\DecoratorExamp1\bin\Debug\DecoratorExamp1.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.8\DecoratorExamp1\DecoratorExamp1\bin\Debug\DecoratorExamp1.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.8\DecoratorExamp1\DecoratorExamp1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MARIA\DesignPatterns\up.8\DecoratorExamp1\DecoratorExamp1\obj\x86\Debug\DecoratorExamp1.exe
+D:\MARIA\DesignPatterns\up.8\DecoratorExamp1\DecoratorExamp1\obj\x86\Debug\DecoratorExamp1.pdb
+D:\MARIA\DesignPatterns\up.8\DecoratorExamp1\DecoratorExamp1\bin\Debug\DecoratorExamp1.exe
+D:\MARIA\DesignPatterns\up.8\DecoratorExamp1\DecoratorExamp1\bin\Debug\DecoratorExamp1.pdb
+D:\MARIA\DesignPatterns\up.8\DecoratorExamp1\DecoratorExamp1\obj\x86\Debug\ResolveAssemblyReference.cache

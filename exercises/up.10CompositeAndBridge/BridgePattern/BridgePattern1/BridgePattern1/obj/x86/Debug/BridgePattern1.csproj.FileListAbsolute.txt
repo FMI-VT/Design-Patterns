@@ -1,0 +1,7 @@
+D:\Programming\Design Pattern\examps\up.10\BridgePattern1\BridgePattern1\bin\Debug\BridgePattern1.exe
+D:\Programming\Design Pattern\examps\up.10\BridgePattern1\BridgePattern1\bin\Debug\BridgePattern1.pdb
+D:\Programming\Design Pattern\examps\up.10\BridgePattern1\BridgePattern1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\up.10\BridgePattern1\BridgePattern1\obj\x86\Debug\BridgePattern1.exe
+D:\Programming\Design Pattern\examps\up.10\BridgePattern1\BridgePattern1\obj\x86\Debug\BridgePattern1.pdb
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.10\BridgePattern\BridgePattern1\BridgePattern1\obj\x86\Debug\BridgePattern1.exe
+F:\Venelin\Uprajneniq\Design Pattern\examps\up.10\BridgePattern\BridgePattern1\BridgePattern1\obj\x86\Debug\BridgePattern1.pdb

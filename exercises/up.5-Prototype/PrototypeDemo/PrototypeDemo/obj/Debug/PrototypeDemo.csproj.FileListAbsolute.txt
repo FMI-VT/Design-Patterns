@@ -1,0 +1,14 @@
+D:\Programming\Design Pattern\examps\PrototypeDemo\PrototypeDemo\bin\Debug\PrototypeDemo.exe
+D:\Programming\Design Pattern\examps\PrototypeDemo\PrototypeDemo\bin\Debug\PrototypeDemo.pdb
+D:\Programming\Design Pattern\examps\PrototypeDemo\PrototypeDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.exe
+D:\Programming\Design Pattern\examps\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.pdb
+G:\Design Patterns\examps\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.exe
+G:\Design Patterns\examps\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.5\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.5\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.pdb
+D:\MARIA\DesignPatterns\up.5\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.exe
+D:\MARIA\DesignPatterns\up.5\PrototypeDemo\PrototypeDemo\obj\Debug\PrototypeDemo.pdb
+D:\MARIA\DesignPatterns\up.5\PrototypeDemo\PrototypeDemo\bin\Debug\PrototypeDemo.exe
+D:\MARIA\DesignPatterns\up.5\PrototypeDemo\PrototypeDemo\bin\Debug\PrototypeDemo.pdb
+D:\MARIA\DesignPatterns\up.5\PrototypeDemo\PrototypeDemo\obj\Debug\ResolveAssemblyReference.cache

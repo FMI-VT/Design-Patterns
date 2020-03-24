@@ -1,0 +1,13 @@
+D:\Programming\Design Pattern\examps\PrototypePattern_IClonable\PrototypePattern_IClonable\bin\Debug\PrototypePattern_IClonable.exe
+D:\Programming\Design Pattern\examps\PrototypePattern_IClonable\PrototypePattern_IClonable\bin\Debug\PrototypePattern_IClonable.pdb
+D:\Programming\Design Pattern\examps\PrototypePattern_IClonable\PrototypePattern_IClonable\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Design Pattern\examps\PrototypePattern_IClonable\PrototypePattern_IClonable\obj\x86\Debug\PrototypePattern_IClonable.exe
+D:\Programming\Design Pattern\examps\PrototypePattern_IClonable\PrototypePattern_IClonable\obj\x86\Debug\PrototypePattern_IClonable.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.5\PrototypePattern_IClonable\PrototypePattern_IClonable\obj\x86\Debug\PrototypePattern_IClonable.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.5\PrototypePattern_IClonable\PrototypePattern_IClonable\obj\x86\Debug\PrototypePattern_IClonable.pdb
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.5\PrototypePattern_IClonable\PrototypePattern_IClonable\bin\Debug\PrototypePattern_IClonable.exe
+D:\Ven\Magistri\Design Pattern\Design Pattern\examps\up.5\PrototypePattern_IClonable\PrototypePattern_IClonable\bin\Debug\PrototypePattern_IClonable.pdb
+D:\MARIA\DesignPatterns\up.5\PrototypePattern_IClonable\PrototypePattern_IClonable\obj\x86\Debug\PrototypePattern_IClonable.exe
+D:\MARIA\DesignPatterns\up.5\PrototypePattern_IClonable\PrototypePattern_IClonable\obj\x86\Debug\PrototypePattern_IClonable.pdb
+D:\MARIA\DesignPatterns\up.5\PrototypePattern_IClonable\PrototypePattern_IClonable\bin\Debug\PrototypePattern_IClonable.exe
+D:\MARIA\DesignPatterns\up.5\PrototypePattern_IClonable\PrototypePattern_IClonable\bin\Debug\PrototypePattern_IClonable.pdb
